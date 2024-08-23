@@ -9,3 +9,5 @@ From the above csv, we have performed Data cleaning, Feature Engineering [Encodi
 Also used Gradient Boosting Classifier Algorithm as it provides the higher level of accuracy compared to any Random Forest Classifier and Decision Tree Algorithm
 
 After providing the required inputs like name, age, gender, smoking history, Hypertension, and important inputs like BMI value, Hemoglobin A1c level, Blood Glucose level, you will be shown the prediction of whether you are Diabetic or Not.
+
+Feel free to clear your doubt by mailing to m.d.kamaraj2000@gmail.com [M.D.KAMARAJ]
